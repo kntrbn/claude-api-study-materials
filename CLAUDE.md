@@ -78,3 +78,4 @@ README.md                 # 章ごとの目次
 - Always read the actual `.md` files before explaining a chapter's content — do not rely on prior context alone.
 - Terminology follows the materials: use **one-shot / multi-shot** (not "few-shot").
 - `LEARNING_LOG.md` records the learner's progress and Q&A history; update it when significant new understanding is reached.
+- **Do not invent interpretations or anthropomorphic phrasing not present in the materials.** Phrases like "the app decides/judges/determines..." imply intelligent decision-making that the materials do not describe. State only what the materials actually say. If the source describes mechanical/fixed behavior (e.g. "the app sends ListToolsRequest"), do not paraphrase it as a judgment or decision. Distinguish clearly between (a) facts in the materials, (b) general programming knowledge, and (c) speculation — never blur them.
